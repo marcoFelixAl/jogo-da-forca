@@ -4,7 +4,9 @@ body {
     margin: 50px;
     background: linear-gradient(to bottom right, #4e8df5, #6eb5ff);
 }
-
+btn-chutar{
+    width:300px;
+}
 #exibicao-palavra {
     font-size: 3em;
     margin-bottom: 30px;
